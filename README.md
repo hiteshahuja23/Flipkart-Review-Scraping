@@ -9,7 +9,7 @@
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
-DEMO :-
+## Demo :-
 
 Link: [https://rev-scrapper-by-hitesh.herokuapp.com/]
 
@@ -33,7 +33,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
 ## Technologies Used
-(https://img.shields.io/badge/Library-BeautifulSoup-orange) 
+![BeautifulSoup](https://img.shields.io/badge/Library-BeautifulSoup-orange) 
 
 ## Bug / Feature Request
 
