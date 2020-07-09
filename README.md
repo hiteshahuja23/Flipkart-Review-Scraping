@@ -9,7 +9,7 @@
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
-## Demo :-
+## Demo
 
 Link: [https://rev-scrapper-by-hitesh.herokuapp.com/]
 
