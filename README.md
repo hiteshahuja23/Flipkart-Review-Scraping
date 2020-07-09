@@ -35,7 +35,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 ## Technologies Used
 ![BeautifulSoup](https://img.shields.io/badge/Library-BeautifulSoup-orange) 
 ![Python](https://img.shields.io/badge/Python-3.7.4-green)
-![Heroku](https://img.shields.io/static/v1?label=<Deployment>&message=<Heroku>&color=<blueviolet>)
+![Heroku](https://img.shields.io/static/v1?label=<Deployment>&message=<Heroku>&color=blueviolet)
 
 ## Bug / Feature Request
 
