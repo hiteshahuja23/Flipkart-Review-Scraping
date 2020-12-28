@@ -6,7 +6,8 @@
   * [Motivation](#motivation)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
-  * [Bug / Feature Request](#bug-/-feature-request)
+  * [Technologies Used](#technologies-used)
+  * [Bug / Feature Request](#bug-or-feature-request)
   * [Future scope of project](#future-scope)
 
 ## Demo
@@ -37,7 +38,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 ![Python](https://img.shields.io/badge/Python-3.7.4-green)
 ![Heroku](https://img.shields.io/static/v1?label=<Deployment>&message=<Heroku>&color=blueviolet)
 
-## Bug / Feature Request
+## Bug or Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/hiteshahuja23/Flipkart-Review-Scraping/issues) here by including your search query and the expected result
 
